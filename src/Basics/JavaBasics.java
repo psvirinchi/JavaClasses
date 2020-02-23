@@ -33,11 +33,14 @@ public class JavaBasics {
 
     // int, double, char, boolean, String, arrays
     /*
+    PRIMITIVE:
     int 0
     double 0.0
     boolean false
     String [null]
 
+    CUSTOM TYPE:
+    Is something that is a combination of the primitive types
      */
 
     // Access Specifiers: public / private / protected
